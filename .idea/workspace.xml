@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b358987c-2651-4e45-bbb0-57f072e3eebe" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/views.py" afterPath="$PROJECT_DIR$/blog/views.py" />
     </list>
     <ignored path="first.iws" />
     <ignored path=".idea/workspace.xml" />
